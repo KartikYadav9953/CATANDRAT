@@ -1,19 +1,19 @@
 function preload() {
     //load the images here
 
-    groundImg = loadImage("images/garden.png");
+    groundImg = loadImage("garden.png");
 
-    catImg = loadImage("images/cat1.png");
+    catImg = loadImage("cat1.png");
 
-    ratImg = loadImage("images/mouse1.png")
+    ratImg = loadImage("mouse1.png")
 
-    cat2Img = loadAnimation("images/cat2.png", "images/cat3.png")
+    cat2Img = loadAnimation("cat2.png", "cat3.png")
 
-    rat2Img = loadAnimation("images/mouse2.png", "images/mouse3.png");
+    rat2Img = loadAnimation("mouse2.png", "mouse3.png");
 
-    cat3Img = loadAnimation("images/cat4.png");
+    cat3Img = loadAnimation("cat4.png");
 
-    rat3Img = loadAnimation("images/mouse4.png");
+    rat3Img = loadAnimation("mouse4.png");
 
 }
 
